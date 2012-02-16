@@ -1,0 +1,2 @@
+Note that WIN32 compile requires cygwin. For that, delete Makefile and rename Makefile.win32 to Makefile
+If you are using any other tool, make sure to update the Makefile/create appropriate project as necessary.
