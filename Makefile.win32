@@ -35,7 +35,7 @@ MOVES_OBJ = $(SOURCE_TARGET)/moves.o
 EVAL_OBJ = $(SOURCE_TARGET)/evaluation.o
 OPENINGBOOK_OBJ = $(SOURCE_TARGET)/openingBook.o
 
-OUTPUT_NAME = DarkTemplar_v01.exe
+OUTPUT_NAME = DarkTemplar_v011.exe
 COMPILE_FLAGS = -ansi -Wall 
 OPTIMIZE = -O3
 #-std=c99 
