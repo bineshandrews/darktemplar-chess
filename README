@@ -1,2 +1,19 @@
 Note that WIN32 compile requires cygwin. Use Makefile.win32 for windows builds.
 If you are using any other tool/IDE, make sure to update the Makefile/create appropriate project as necessary.
+
+The binaries are in ./darktemplar-chess/bin/linux or ./darktemplar-chess/bin/win32 directories
+
+Run the engine on winboard/xboard using:
+
+winboard -fcp ./darktemplar-chess/bin/win32/DarkTemplar_v011.exe [-scp ./darktemplar-chess/bin/win32/DarkTemplar_v011.exe]
+OR
+xboard -fcp ./darktemplar-chess/bin/linux/DarkTemplar_v011 [-scp ./darktemplar-chess/bin/linux/DarkTemplar_v011]
+
+Check Arena website for steps to setup DarkTemplar on Arena.
+
+Download Winboard/Xboard: http://www.gnu.org/software/xboard/
+Alternate location for winboard:  http://winboard.en.softonic.com/
+Download Arena from: http://www.playwitharena.com/
+
+
+
